@@ -19,7 +19,7 @@ if ( ! defined( 'ABSPATH' ) ) exit;
  * @param bool $value Current state of Carousel enablement
  * @return bool True if mobile detected, to disable Carousel
  */
-function resurrect_disable_carousel( $value ) {
+function djcm_disable_carousel( $value ) {
 
 	// Include the Mobile_Detect class
 	// https://github.com/serbanghita/Mobile-Detect
@@ -40,4 +40,4 @@ function resurrect_disable_carousel( $value ) {
 
 }
 
-add_filter( 'jp_carousel_maybe_disable', 'resurrect_disable_carousel' );
+add_filter( 'jp_carousel_maybe_disable', 'djcm_disable_carousel' );

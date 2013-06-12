@@ -14,9 +14,9 @@ Disables Jetpack Carousel on mobile devices.
 
 This plugin also works with [Gallery Carousel Without JetPack](http://wordpress.org/plugins/carousel-without-jetpack/).
 
-**Device Detection**
+**Device Detection**: The popular [Mobile_Detect](https://github.com/serbanghita/Mobile-Detect) PHP class handles device detection. It will be updated regularly in this plugin.
 
-The popular [Mobile_Detect](https://github.com/serbanghita/Mobile-Detect) PHP class handles device detection. It will be updated regularly in this plugin.
+You can follow on [GitHub](https://github.com/stevengliebe/disable-carousel-mobile).
 
 == Installation ==
 

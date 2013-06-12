@@ -18,4 +18,4 @@ The popular [Mobile_Detect](https://github.com/serbanghita/Mobile-Detect) PHP cl
 More Information
 ----------------
 
-Visit the [plugin's page](http://wordpress.org/plugins/disable-carousel-mobile) on WordPress.org for more information
+Visit the [plugin's page](http://wordpress.org/plugins/disable-jetpack-carousel-on-mobile/) on WordPress.org for more information

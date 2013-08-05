@@ -26,5 +26,4 @@ No configuration is necessary. Just install then activate and Carousel will be d
 
 == Changelog ==
 
-= 1.0 =
-* First release
+See [release tags](https://github.com/stevengliebe/disable-carousel-mobile/tags) on GitHub.

@@ -3,7 +3,7 @@
  * Plugin Name: Disable Jetpack Carousel on Mobile
  * Plugin URI: https://github.com/stevengliebe/disable-carousel-mobile
  * Description: Disables Jetpack Carousel on mobile devices.
- * Version: 1.2
+ * Version: 1.2.1
  * Author: Steven Gliebe
  * Author URI: http://stevengliebe.com
  * License: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html

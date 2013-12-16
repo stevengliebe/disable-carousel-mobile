@@ -2,7 +2,7 @@
 Contributors: stevengliebe, churchthemes
 Tags: jetpack, carousel, lightbox, gallery, disable, mobile
 Requires at least: 3.5
-Tested up to: 3.7
+Tested up to: 3.8
 Stable tag: trunk
 License: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 

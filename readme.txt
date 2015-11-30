@@ -10,6 +10,8 @@ Disables Jetpack Carousel on mobile devices.
 
 == Description ==
 
+**This plugin is no longer maintained. Jetpack Carousel now works fine on modern mobile devices.**
+
 [Carousel](http://jetpack.me/support/carousel/) is a fantastic gallery lightbox feature included with the [Jetpack](http://wordpress.org/plugins/jetpack/) plugin. It's not perfect on all mobile devices so you may want to disable it specifically for mobile users. That's what this plugin does.
 
 This plugin also works with [Gallery Carousel Without JetPack](http://wordpress.org/plugins/carousel-without-jetpack/).
